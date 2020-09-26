@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/2.png</file>
+        <file>res/4.png</file>
+        <file>res/8.png</file>
+        <file>res/16.png</file>
+        <file>res/32.png</file>
+        <file>res/64.png</file>
+        <file>res/128.png</file>
+        <file>res/256.png</file>
+        <file>res/1024.png</file>
+        <file>res/2048.png</file>
+        <file>res/circulation.png</file>
+        <file>res/dengluzhuce.png</file>
+        <file>res/512.png</file>
+        <file>res/PlayLevelSceneBg.png</file>
+        <file>res/0.png</file>
+        <file>res/denglu.png</file>
+        <file>res/zhuce.png</file>
+        <file>res/mima.png</file>
+        <file>res/yonghuming.png</file>
+        <file>res/jingdianmoshi.png</file>
+        <file>res/jingsumoshi.png</file>
+        <file>res/fanhui.png</file>
+        <file>res/2048Icon.png</file>
+        <file>res/denglubg.png</file>
+    </qresource>
+</RCC>
